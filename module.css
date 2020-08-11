@@ -1,4 +1,6 @@
-ul {
+@media only screen and (min-width: 768px){
+
+body {
   background-color: rgb(169, 240, 240);
 }
 
@@ -6,4 +8,20 @@ li {
   background-color: darkgray;
   border: #111 1px solid;
   border-radius: 1px;
+}
+
+}
+
+@media only screen and (max-width: 767px){
+
+  body {
+    background-color: green;
+  }
+  
+  li {
+    background-color: darkgray;
+    border: #111 1px solid;
+    border-radius: 1px;
+  }
+
 }
