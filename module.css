@@ -1,0 +1,9 @@
+ul {
+  background-color: rgb(169, 240, 240);
+}
+
+li {
+  background-color: darkgray;
+  border: #111 1px solid;
+  border-radius: 1px;
+}
