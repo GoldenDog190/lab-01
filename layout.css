@@ -98,54 +98,63 @@ li:nth-child(9){
     }
   
   li:nth-child(1){
+    line-height: 75px;
    height: 75px;
    width: 480px;
    float: left;
   }
 
   li:nth-child(2){
+    line-height: 150px;
     height: 150px;
     width: 480px;
     float: left;
    }
   
   li:nth-child(3){
+    line-height: 150px;
     height: 150px;
     width: 480px;
     float: left;
    }
   
   li:nth-child(4){
+    line-height: 125px;
     height: 125px;
     width: 480px;
     float: left;
    }
   
   li:nth-child(5){
+    line-height: 250px;
     height: 250px;
     width: 50%;
     float: left;
    }
   
   li:nth-child(6){
+    line-height: 250px;
     height: 250px;
     width: 50%;
     float: left;
    }
   
   li:nth-child(7){
+    line-height: 250px;
     height: 250px;
     width: 50%;
     float: left;
    }
   
   li:nth-child(8){
+    line-height: 250px;
     height: 250px;
     width: 50%;
     float: left;
    }
   
   li:nth-child(9){
+    line-height: 80px;
     height: 80px;
     width: 480px;
     float: left;
