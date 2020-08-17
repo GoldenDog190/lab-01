@@ -50,16 +50,13 @@ div:nth-child(4) {
 }
 
 .e {
-  grid-column-start: 2;
-  grid-column-end: 2.5;
-  grid-row-start: 3;
-  grid-row-end: 4;
+  grid-area: 3 / 3 / auto / span 1;
+  grid-column: 2 / 2;
+  grid-row: 3;
 }
 .f {
-  grid-column-start: 2.5;
-  grid-column-end: 3;
-  grid-row-start: 3;
-  grid-row-end: 4;
+  grid-column: 3 / 2;
+  grid-row: 3;
 }
 
 .g {
